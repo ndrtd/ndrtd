@@ -1,5 +1,5 @@
 ## Cyber Risk Analist
-I  bridge compliance and production reality. Integrating AppSec, GRC, and  CTI, I design risk-weighted, auditable release gates that turn implicit  choices into attributable, defensible records under NIS2, DORA, and CRA.
+I  bridge compliance and production reality. Integrating AppSec, GRC, and  CTI, I design risk-weighted, auditable release gates that turn implicit  choices into attributable, defensible records under NIS2, CRA and DORA.
 
 [Portfolio](https://had-nu.github.io/)
 
